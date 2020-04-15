@@ -1,0 +1,20 @@
+0. Create a local database called "dogsDattingApp"
+
+[City]
+1. Execute CreateCityTable.sql
+2. Import data from Cities.xlsx into existing table using the Import Data wizard from SQL Server Management Studio.
+See: https://www.sqlshack.com/import-data-excel-file-sql-server-database/
+3. Execute AlterCityTable.sql
+
+[User]
+4. Execute CreateUserTable.sql
+
+[Breed]
+5. Execute CreateBreedTable.sql
+6. Import data from Breeds.xlsx into existing table using the Import Data wizard from SQL Server Management Studio.
+7. Execute AlterBreedTable.sql
+
+[Dog]
+8. Execute CreateDogTable.sql
+
+9. Execute AdditionalChanges.sql
