@@ -1,3 +1,2 @@
 # DogsDatingApp
-A full-stack project developed as a single-page application using React.js and ASP.NET Web API.
-
+A web application that allows you to browse dog's profiles and find a date for your dog.
